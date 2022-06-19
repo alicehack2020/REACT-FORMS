@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "Name": "mangesh",
+      "Age": "24",
+      "Address": "india",
+      "Salary": "20000001",
+      "marital_state": true,
+      "Department": "lime",
+      "id": 1
+    }
+  ]
+}
